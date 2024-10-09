@@ -1,0 +1,15 @@
+ # Byte-compiled  
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+# virtualenv 
+venv/ 
+.venv/ 
+# Django: 
+*.log 
+*.pot 
+db.sqlite3 
+media/ 
+# IDEs 
+.idea/ 
+.vscode/
