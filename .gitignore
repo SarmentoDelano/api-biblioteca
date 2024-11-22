@@ -1,4 +1,4 @@
- # Byte-compiled  
+# Byte-compiled  
 __pycache__/ 
 *.py[cod] 
 *$py.class 
@@ -8,8 +8,8 @@ venv/
 # Django: 
 *.log 
 *.pot 
-db.sqlite3 
+db.sqlite3
 media/ 
 # IDEs 
 .idea/ 
-.vscode/
+.vscode/ 
