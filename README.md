@@ -2,6 +2,7 @@
 
 Uma API desenvolvida com Django REST Framework para gerenciar coleções de livros, autores e categorias, permitindo que usuários criem, atualizem e acessem informações de maneira eficiente.
 
+---
 
 ## **Recursos da API**
 
@@ -18,6 +19,7 @@ A API fornece endpoints para:
 - Gerenciar **Categorias**:
   - Criar, visualizar, atualizar e excluir categorias de livros.
 
+---
 
 ## **Tecnologias Utilizadas**
 
@@ -26,6 +28,7 @@ A API fornece endpoints para:
 - **Django REST Framework (DRF)**: Para criação de APIs RESTful.
 - **SQLite**: Banco de dados usado no desenvolvimento.
 
+---
 
 ## **Configuração do Ambiente**
 
@@ -97,3 +100,5 @@ Acesse a API em `http://127.0.0.1:8000/`.
 | GET    | /categorias/{id}/  | Recupera detalhes de uma categoria      |
 | PUT    | /categorias/{id}/  | Atualiza informações de uma categoria   |
 | DELETE | /categorias/{id}/  | Remove uma categoria                    |
+
+---
